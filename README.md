@@ -19,3 +19,5 @@ Era necessário criar usando os metodos GET, PUT, POST, PATCH e DELETE.
 - Nodemon
 - UUID
 - Insomnia
+
+<img src="print.png">
